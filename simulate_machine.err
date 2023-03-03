@@ -1,0 +1,4 @@
+Warning[2058] D:\DA TKLL\PICKITMPLAB\Bai9_I2C_Full\simulate_machine\simulate_machine.c 74 : call of function without prototype
+Warning[2058] D:\DA TKLL\PICKITMPLAB\Bai9_I2C_Full\simulate_machine\simulate_machine.c 78 : call of function without prototype
+Warning[2058] D:\DA TKLL\PICKITMPLAB\Bai9_I2C_Full\simulate_machine\simulate_machine.c 79 : call of function without prototype
+Warning[2054] D:\DA TKLL\PICKITMPLAB\Bai9_I2C_Full\simulate_machine\simulate_machine.c 100 : suspicious pointer conversion
